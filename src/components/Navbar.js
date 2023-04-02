@@ -30,7 +30,7 @@ const Navbar = () => {
                 <a
                   href={href}
                   target="_blank"
-                  rel="noopener"
+                  rel="noreferrer"
                   className="nav-icon"
                 >
                   <i className={icon}> </i>
